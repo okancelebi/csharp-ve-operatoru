@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\bin\Debug\csharp ve operatoru.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\bin\Debug\csharp ve operatoru.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\bin\Debug\csharp ve operatoru.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\obj\Debug\csharp ve operatoru.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\obj\Debug\csharp ve operatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\obj\Debug\csharp ve operatoru.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\obj\Debug\csharp ve operatoru.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ve operatoru\csharp ve operatoru\obj\Debug\csharp ve operatoru.pdb
